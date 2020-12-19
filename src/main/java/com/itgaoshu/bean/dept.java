@@ -8,4 +8,5 @@ public class dept {
     private  int id;
     private  int username;
     private  int password;
+    private  int salary;
 }
